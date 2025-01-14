@@ -1,0 +1,7 @@
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/frontend
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/appsettings.json
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/frontend.dll
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/frontend.deps.json
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/frontend.runtimeconfig.json
+/Users/brihanbocanegra/Projects/openai/frontend/bin/Release/net8.0/publish/frontend.pdb

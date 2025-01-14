@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "2Wje9za6WOdCT+fYK6ij5i+6IjDK3h1+ifL1HeVXheQ=",
+  "Source": "frontend",
+  "BasePath": "_content/frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "frontend/wwwroot",
+      "Source": "frontend",
+      "ContentRoot": "/Users/brihanbocanegra/Projects/openai/frontend/wwwroot/",
+      "BasePath": "_content/frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/brihanbocanegra/Projects/openai/frontend/wwwroot/index.html",
+      "SourceId": "frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/brihanbocanegra/Projects/openai/frontend/wwwroot/",
+      "BasePath": "_content/frontend",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
